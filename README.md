@@ -1,0 +1,2 @@
+# StreamCommentTranslation
+配信時のコメントを自動翻訳するアプリです
