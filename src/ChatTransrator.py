@@ -1,4 +1,28 @@
+"""
+ChatTransrator.py
 
+YouTube ライブチャット翻訳ツール（無料版）
+Author: 雨丸 <deadhuman17@outlook.jp>
+Created: 2025-04-22
+Last Modified: 2025-04-22
+Version: 1.0.0
+
+Description:
+  - 指定チャンネルのライブ配信チャットを自動検出し取得
+  - googletrans / LibreTranslate のいずれかでリアルタイム翻訳
+  - Tkinter GUI で表示＆CSV にログ出力
+  - OBS-WebSocket 経由で配信画面にオーバーレイ（任意）
+
+Usage:
+  python ChatTransrator.py
+
+Requirements:
+  - google-api-python-client
+  - googletrans==4.0.0-rc1
+  - requests
+  - obs-websocket-py
+  - tkinter (標準ライブラリ)
+"""
 
 import os
 import json
