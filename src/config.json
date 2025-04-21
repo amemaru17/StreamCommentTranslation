@@ -1,15 +1,15 @@
 {
   "$comment1": "YouTube Data API の APIキー（無料枠）",
-  "youtube_api_key": "AIzaSyCpf-iqORNaZZEyVX9v3pTii6lRdcPF6tc",
+  "youtube_api_key": "",
 
   "$comment2": "あなたのチャンネルID（UC…で始まる文字列）",
-  "channel_id": "UCmB_DzsoOgVZMuD086mfjlw",
+  "channel_id": "",
 
   "$comment3": "OBS/WebSocket を使わないなら省略可",
   "obs": {
     "host": "192.168.3.27",
     "port": 4455,
-    "password": "AsFVKP8QnO33QDOQ"
+    "password": ""
   },
 
   "$comment4": "翻訳先の選択肢",
