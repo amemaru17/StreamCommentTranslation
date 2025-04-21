@@ -1,0 +1,42 @@
+{
+  "$comment1": "YouTube Data API の APIキー（無料枠）",
+  "youtube_api_key": "AIzaSyCpf-iqORNaZZEyVX9v3pTii6lRdcPF6tc",
+
+  "$comment2": "あなたのチャンネルID（UC…で始まる文字列）",
+  "channel_id": "UCmB_DzsoOgVZMuD086mfjlw",
+
+  "$comment3": "OBS/WebSocket を使わないなら省略可",
+  "obs": {
+    "host": "192.168.3.27",
+    "port": 4455,
+    "password": "AsFVKP8QnO33QDOQ"
+  },
+
+  "$comment4": "翻訳先の選択肢",
+  "lang_options": {
+    "日本語": "ja",
+    "English": "en",
+    "Indonesia": "id",
+    "中文": "zh-CN",
+    "한국어": "ko"
+  },
+
+  "$comment5": "翻訳エンジンは googletrans（公式外）と LibreTranslate",
+  "translators": {
+    "googletrans": "googletrans",
+    "libretranslate": "libre"
+  },
+
+  "$comment6": "LibreTranslate 公衆 API エンドポイント",
+  "libre_url": "https://libretranslate.com/translate",
+
+  "$comment7": "GUI 表示用の色指定",
+  "colors": {
+    "original": "#000000",
+    "ja": "#1f77b4",
+    "en": "#2ca02c",
+    "id": "#d62728",
+    "zh-CN": "#9467bd",
+    "ko": "#8c564b"
+  }
+}
