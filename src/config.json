@@ -20,17 +20,22 @@
     "中文": "zh-CN",
     "한국어": "ko"
   },
+  "$comment5": "利用可能な言語コード",
+  "enabled_langs": ["ja","en","id"],
 
-  "$comment5": "翻訳エンジンは googletrans（公式外）と LibreTranslate",
+  "$comment6": "起動時にチェック済みの言語コード",
+  "default_langs": ["ja","en"],
+
+  "$comment7": "翻訳エンジンは googletrans（公式外）と LibreTranslate",
   "translators": {
     "googletrans": "googletrans",
     "libretranslate": "libre"
   },
 
-  "$comment6": "LibreTranslate 公衆 API エンドポイント",
+  "$comment8": "LibreTranslate 公衆 API エンドポイント",
   "libre_url": "https://libretranslate.com/translate",
 
-  "$comment7": "GUI 表示用の色指定",
+  "$comment9": "GUI 表示用の色指定",
   "colors": {
     "original": "#000000",
     "ja": "#1f77b4",
