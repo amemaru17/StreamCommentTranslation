@@ -1,6 +1,9 @@
 # StreamCommentTranslation
 
 配信時のコメントを自動翻訳するアプリです  
+イメージ画像は以下になります。  
+![image](https://github.com/user-attachments/assets/7ac99801-5190-4f7e-86d3-2aef34a6363c)  
+
 ※連絡なしでインストールした場合のサポート等は一切行いません。   
   また、アプリケーションの改造等を行った場合の動作不良は一切の責任を負いません。   
 
